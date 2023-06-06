@@ -1,0 +1,27 @@
+[aws_boto_credentials]
+access_key =  
+secret_key = 
+bucket_name = 
+account_id = 
+
+[mysql_config]
+hostname = 
+port = 3306 
+username =  
+password =  
+database = 
+
+[aws_creds]
+database = 
+username = 
+password = 
+host = 
+port = 
+iam_role = 
+
+#[postgres_config]
+#host = 
+#port = 5432
+#username = 
+#password = 
+#database = 
